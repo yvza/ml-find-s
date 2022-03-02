@@ -1,0 +1,6 @@
+
+sunny|warm|normal|strong|warm|same|yes
+sunny|warm|hight|strong|warm|same|yes
+rainy|cold|hight|strong|warm|change|no
+sunny|warm|hight|strong|cool|change|yes
+sunny|cold|hight|strong|warm|same|yes
